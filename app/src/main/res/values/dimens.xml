@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="columnWidth">90dp</dimen>
+    <dimen name="verticalSpacing">10dp</dimen>
+    <dimen name="horizontalSpacing">10dp</dimen>
+
+</resources>

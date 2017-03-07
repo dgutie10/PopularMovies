@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\f820967d14cc0a597f77c10e2cf4de5576d4e9a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dba355b9c8053a7b02991a24213502e3e6f7242f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\0a59ad5015f1d749f2cfa1ad642226cd43c3e554\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_474e1bb6eb3121119e2d112d91176ea636441ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_97cb20f942ebe40435d3faefb3bec694b5c8b133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\8aa4a8b74f16f6ad1a910813276997281816cd17\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8b5a4b9fbb7a5dff771b9d7eeda5ce0b9dc10ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\7ff2a9f4877cb7d9c16cb73e72a6246d906d9a7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f760780b7bd0676d2f617cb335b10bf563bce45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\8aa4a8b74f16f6ad1a910813276997281816cd17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4732800b4613ed6f496a12652644b64a84df632c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\bbde3b78953e0c3a734c866eaa3e888eb34ca9a9\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_302944ac858c92d7cb72b5b7c491369cc7ec8d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f8d36211b1d8d5717246659430d659cf2ef2d00">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_98a46ad256328824770a68a4c3009bc03c5df270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\b70465fe564eef3d35cd98627832f660bd4d09dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_936238f7ec6a4bae75c1ba64448a3b2c26090690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_f614cefbb6a3bd11865a8e5a5f18c4b9aa8647a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\b70465fe564eef3d35cd98627832f660bd4d09dd\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f06076e6b4f7e3bbf305e155d4af376191685613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\bbde3b78953e0c3a734c866eaa3e888eb34ca9a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39b0557220fcc80c8701a92f86f969c3fdd38d10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\f2f2cf02c3d591b7fecf8dcbd5f0301dd06016e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9a9069a33539ab800188815b83e43cac2c2f18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\38a5c018a51257940b6cef2fdf960734e2228c48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf70c209357d1d9a85f7aed3fc2f7ef25750818f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\bd3c0419f7a87ecc451c069664b1ac4ede9d7c16\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b5d2bb5d7973eba77d3a2f0dff08070823fa9e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\7ff2a9f4877cb7d9c16cb73e72a6246d906d9a7b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2909241928f1a614e4adabfabb867599652b620d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_8b731ca85bac787d1ebcca6c802b0a77d5295893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\0a59ad5015f1d749f2cfa1ad642226cd43c3e554\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b83c09c4120f6ef279920fa37e7ba7c1bcba5905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\.android\build-cache\9eb4d42851610f8ba86ca277f568891c19ab83e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22afaee5bcb36143ef6beacf71592090807c723d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a08d2c533cce11025819dc9c6ba518ac5866355\classes.dex" />
+    </item>
+
+</items>
